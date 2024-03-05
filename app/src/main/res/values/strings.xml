@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice_3_mirea_task3_2</string>
+
+    <string name="button_add_text">Добавить</string>
+    <string name="text_view_f_fragment_explanation">Здесь будет размещено сохраненное значение счетчика</string>
+    <string name="text_view_saved_result_first_part">Сохраненное значение: </string>
+    <string name="button_save_value_text">Запомнить значение</string>
+</resources>
